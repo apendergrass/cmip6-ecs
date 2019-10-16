@@ -10,3 +10,4 @@ Project began June 2019 at the NCAR python hackathon.
 See periodic updates, discussion, and follow on work at https://twitter.com/apuffycloud (among other things)
 
 Contact: apgrass@ucar.edu
+Author: Angeline G Pendergrass, NCAR
